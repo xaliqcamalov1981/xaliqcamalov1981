@@ -5,11 +5,11 @@ Bu dashboard vezifelere gore, Sherlere gore  emek haqqi vizualni ve  her peseye 
 ![Dashboard Screenshot](dashboard.png)
 
 ## İstifadə Olunan Alətlər
-* Power BI Desktop
-* Power Query (Data təmizləmə üçün)
-* DAX (Hesablamalar üçün)
+* #Power BI Desktop
+* #Power Query (Data təmizləmə üçün)
+* #DAX (Hesablamalar üçün)
 
 ## Əsas Göstəricilər (KPI-lar)
-* Ümumi Satış Məbləği
-* Regionlar üzrə performans
-* Aylıq artım tempi
+* #Ümumi Satış Məbləği
+* #Regionlar üzrə performans
+* #Aylıq artım tempi
