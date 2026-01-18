@@ -1,16 +1,15 @@
-## Hi there 👋
+## Layihə Haqqında
+Bu dashboard vezifelere gore, Sherlere gore  emek haqqi vizualni ve  her peseye gore ortalama emek haqqi  iscilerin sherelere gore say dagilimi ve s sahede yaradilmish bir dashboarddi  yaradılmışdır.
 
-<!--
-**xaliqcamalov1981/xaliqcamalov1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Dashboard-dan Görüntü
+![Dashboard Screenshot](dashboard.png)
 
-Here are some ideas to get you started:
+## İstifadə Olunan Alətlər
+* Power BI Desktop
+* Power Query (Data təmizləmə üçün)
+* DAX (Hesablamalar üçün)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Əsas Göstəricilər (KPI-lar)
+* Ümumi Satış Məbləği
+* Regionlar üzrə performans
+* Aylıq artım tempi
